@@ -1,0 +1,108 @@
+{
+  "slug": "chameleonclear",
+  "box": 209,
+  "date": "2026-11-12",
+  "title": "ChameleonClear",
+  "question": "How does a chameleon change color?",
+  "hook": "A chameleon’s green is not paint. It is light bouncing off a lattice of crystals far smaller than a hair, and when a male gets excited the crystals spread apart and he turns orange. Slide the crystals and watch.",
+  "thumbText": "HOW CHAMELEONS CHANGE COLOUR",
+  "field": "nature",
+  "minutes": 12,
+  "tags": [
+    "chameleon",
+    "colour change",
+    "structural colour",
+    "photonic crystal",
+    "iridophore",
+    "guanine",
+    "melanin",
+    "Indian chameleon",
+    "Chamaeleo zeylanicus",
+    "Madagascar",
+    "animal signals",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A skin built in layers",
+      "text": "Under a chameleon’s clear outer skin sit yellow pigment cells, then two layers of crystal-filled iridophores, then dark melanophores with arms reaching up. It also has tong-like feet, a gripping tail, turret eyes that swivel on their own and a spring-loaded tongue."
+    },
+    {
+      "title": "Colour from crystals",
+      "text": "Guanine crystals about 127 nm across sit in a neat lattice. Light reflected from layer after layer adds up for one colour only. Close together they reflect blue, which looks green through the yellow pigment. Excited males spread the crystals about 30% further apart, and the skin turns yellow and orange."
+    },
+    {
+      "title": "Talking, not hiding",
+      "text": "Chameleons do not copy their background. Rival males flash bright colours and the brighter, faster-changing one tends to win; females say yes or no with colour; chameleons darken to warm up in the sun and sleep pale. Octopus and cuttlefish change faster, using muscles."
+    },
+    {
+      "title": "India’s chameleon",
+      "text": "India has one chameleon, Chamaeleo zeylanicus, in scrub and dry forest across the peninsula. The red-headed garden lizard many call a chameleon is an agamid whose breeding colours come mostly from pigment."
+    },
+    {
+      "title": "Chameleons and people",
+      "text": "The Indian chameleon is in Schedule I of the Wild Life (Protection) Act after the 2022 amendment, so catching or trading one is a crime. Almost half the world’s 200-plus species live only in Madagascar, including a nano-chameleon 13.5 mm long."
+    },
+    {
+      "title": "How we found out",
+      "text": "Aristotle thought chameleons changed colour by puffing up with air. Brücke and Bert found colour cells and the nerves that steer them in the 1800s. In 2015 a Geneva team found the tunable crystal lattice, and engineers now copy it."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Chromatophore",
+      "def": "A colour cell in the skin; chameleons have pigment cells, crystal cells and melanin cells in layers."
+    },
+    {
+      "term": "Iridophore",
+      "def": "A cell holding tiny reflecting crystals of guanine instead of pigment."
+    },
+    {
+      "term": "Structural colour",
+      "def": "Colour made by the size and spacing of tiny structures rather than by pigment."
+    },
+    {
+      "term": "Photonic crystal",
+      "def": "A regular lattice with spacing near the wavelength of light that reflects one band of colour."
+    },
+    {
+      "term": "Interference",
+      "def": "Waves adding where crests meet crests and cancelling where crests meet troughs."
+    },
+    {
+      "term": "Melanophore",
+      "def": "A cell that moves dark melanin up its arms to darken the skin."
+    },
+    {
+      "term": "Xanthophore",
+      "def": "A yellow pigment cell that filters out blue light, turning reflected blue into green."
+    },
+    {
+      "term": "Signalling",
+      "def": "Sending a message to another animal; the main reason chameleons change colour."
+    },
+    {
+      "term": "Zygodactyl",
+      "def": "Toes grouped in two opposing bundles that grip a branch from both sides."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "chameleonclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

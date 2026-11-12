@@ -1,0 +1,685 @@
+{
+  "title": "How we worked out chameleon colour",
+  "tagline": "From Aristotle’s puff of air to nerves, pigment cells, and the nanocrystals found in 2015.",
+  "intro": "For two thousand years people believed chameleons copied their surroundings and lived on air. Nineteenth-century physiologists found pigment cells and the nerves that steer them, and twentieth-century field biologists showed the colours are messages. In 2015 physicists and biologists in Geneva showed the brightest colours come from a tunable crystal lattice in the skin.",
+  "eras": [
+    {
+      "id": "myth",
+      "name": "Myths and first looks",
+      "from": -400,
+      "to": 1700,
+      "color": "#c49bff",
+      "summary": "Ancient writers describe chameleons, and the air-diet and background-copying myths take hold."
+    },
+    {
+      "id": "nerves",
+      "name": "Nerves and pigment cells",
+      "from": 1700,
+      "to": 1990,
+      "color": "#ffb547",
+      "summary": "Naturalists name species, physiologists find colour cells and the nerves that control them, and India protects its wildlife."
+    },
+    {
+      "id": "signals",
+      "name": "What the colours mean",
+      "from": 1990,
+      "to": 2014,
+      "color": "#5ce1a9",
+      "summary": "Field studies show colour change is mostly for signals and temperature, not for matching backgrounds."
+    },
+    {
+      "id": "crystals",
+      "name": "Crystals, copies and protection",
+      "from": 2015,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Nanocrystals explain the colours, engineers copy them, and laws tighten against the pet trade."
+    }
+  ],
+  "events": [
+    {
+      "year": -350,
+      "date": "c. 350 BCE",
+      "era": "myth",
+      "art": "scroll",
+      "key": true,
+      "title": "Colour from a puff of air",
+      "who": "Aristotle",
+      "where": "Athens",
+      "country": "Greece",
+      "text": "In his History of Animals, Aristotle described the chameleon carefully: its eyes, its feet, its body. He wrote that its colour changes when it fills itself with air, turning black, ochre or spotted like a panther, all over the body.",
+      "why": "It was the first careful written account of chameleon colour change.",
+      "box": "history",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 77,
+      "date": "c. 77 CE",
+      "era": "myth",
+      "art": "quill",
+      "key": true,
+      "title": "“Every colour except red and white”",
+      "who": "Pliny the Elder",
+      "where": "Rome",
+      "country": "Italy (Roman Empire)",
+      "text": "Pliny’s Natural History said the chameleon takes the colour of whatever it is touching, except red and white, and repeated the old idea that it lives on air. Later naturalists noted that he copied Aristotle, less accurately.",
+      "why": "The background-matching myth has followed chameleons ever since.",
+      "box": "why",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 1646,
+      "date": "1646",
+      "era": "myth",
+      "art": "inkpot",
+      "title": "A doctor doubts the air diet",
+      "who": "Thomas Browne",
+      "where": "Norwich",
+      "country": "England",
+      "text": "In Pseudodoxia Epidemica, a book of common errors, Browne argued that chameleons cannot live on air and must eat like other animals.",
+      "why": "An early push to test old animal stories against evidence.",
+      "box": "history",
+      "sources": [
+        13
+      ]
+    },
+    {
+      "year": 1768,
+      "date": "1768",
+      "era": "nerves",
+      "art": "leaf",
+      "title": "India’s chameleon gets its name",
+      "who": "Josephus Nicolaus Laurenti",
+      "where": "Vienna",
+      "country": "Austria",
+      "text": "Laurenti described Chamaeleo zeylanicus, the chameleon of India and Sri Lanka (zeylanicus means ‘of Ceylon’).",
+      "why": "It gave India’s only chameleon the scientific name it still carries.",
+      "box": "india",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 1852,
+      "date": "1852",
+      "era": "nerves",
+      "art": "cell",
+      "key": true,
+      "title": "Live chameleons from Cairo",
+      "who": "Ernst Wilhelm von Brücke",
+      "where": "Vienna",
+      "country": "Austria",
+      "text": "The Vienna Academy obtained ten live chameleons from Cairo and gave six to the physiologist Brücke. He presented a study of how African chameleons change colour, comparing them with cephalopods, and described colour cells moving their pigment.",
+      "why": "It turned the chameleon’s colour change into a problem for laboratory physiology.",
+      "box": "history",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 1876,
+      "date": "by 1876",
+      "era": "nerves",
+      "art": "neuron",
+      "key": true,
+      "title": "Nerves steer the colour",
+      "who": "Paul Bert",
+      "where": "Paris",
+      "country": "France",
+      "text": "Bert reported that coloured grains move toward or away from the skin’s surface, steered by two sets of nerves. When he cut the pathway at the base of the brain, the whole chameleon turned black and stopped changing.",
+      "why": "It showed that the brain controls colour change through nerves.",
+      "box": "history",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 1935,
+      "date": "1935",
+      "era": "nerves",
+      "art": "muscle",
+      "title": "Cuttlefish colour in a flash",
+      "who": "A. V. Hill and D. Y. Solandt",
+      "where": "London",
+      "country": "UK",
+      "text": "Working on cuttlefish, Hill and Solandt showed that their colour cells are pulled open by muscles and change in well under a second (as cited in later reviews).",
+      "why": "It set up the contrast with chameleons, whose colour cells have no muscles.",
+      "box": "why",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": 1972,
+      "date": "1972",
+      "era": "nerves",
+      "art": "leaf",
+      "title": "India protects its wildlife",
+      "who": "Parliament of India",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "The Wild Life (Protection) Act listed animals in schedules with different levels of protection. The Indian chameleon came to be listed in Schedule II (Part I), making it illegal to catch, keep or trade.",
+      "why": "It made the Indian chameleon a legally protected animal.",
+      "box": "people",
+      "sources": [
+        22,
+        18
+      ]
+    },
+    {
+      "year": 1993,
+      "date": "1993",
+      "era": "signals",
+      "art": "thermometer",
+      "title": "Colour and temperature",
+      "who": "B. Michael Walton and Albert F. Bennett",
+      "where": "Irvine, California",
+      "country": "USA",
+      "text": "Studying chameleons from Kenya, Walton and Bennett found that skin reflectance changes with temperature in some species: paler when hot, darker when cool.",
+      "why": "It showed colour change also helps chameleons manage heat.",
+      "box": "why",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 2000,
+      "date": "2000",
+      "era": "signals",
+      "art": "colour",
+      "title": "Female colours say yes or no",
+      "who": "Mariano Cuadrado",
+      "where": "Andalusia",
+      "country": "Spain",
+      "text": "Radio-tracking and painting female common chameleons, Cuadrado showed that their temporary colours track their breeding state, and males respond to them.",
+      "why": "It proved female chameleon colours are messages to males.",
+      "box": "why",
+      "sources": [
+        4
+      ]
+    },
+    {
+      "year": 2001,
+      "date": "2001",
+      "era": "signals",
+      "art": "muscle",
+      "title": "How cephalopods paint themselves",
+      "who": "John B. Messenger",
+      "where": "Cambridge",
+      "country": "UK",
+      "text": "Messenger’s big review explained how octopus and cuttlefish chromatophores work: elastic pigment sacs pulled open by radial muscles wired to the brain, closing again by recoil.",
+      "why": "It became the standard account of the fastest colour change in animals.",
+      "box": "why",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": 2008,
+      "date": "January 2008",
+      "era": "signals",
+      "art": "colorwheel",
+      "key": true,
+      "title": "Colour change evolved for talking",
+      "who": "Devi Stuart-Fox and Adnan Moussalli",
+      "where": "Melbourne and Cape Town",
+      "country": "Australia and South Africa",
+      "text": "Comparing 21 lineages of South African dwarf chameleons, they found that the species with the biggest colour changes were those with the showiest social signals, not those living on the most varied backgrounds.",
+      "why": "It gave strong evidence against the background-matching myth.",
+      "box": "why",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 2013,
+      "date": "December 2013",
+      "era": "signals",
+      "art": "trophy",
+      "title": "Brighter, faster males win",
+      "who": "Russell Ligon and Kevin McGraw",
+      "where": "Tempe, Arizona",
+      "country": "USA",
+      "text": "Filming contests between ten male veiled chameleons, they found the side stripes predicted which male would approach, while head brightness and the speed of head colour change predicted the winner.",
+      "why": "It showed different body parts send different messages.",
+      "box": "why",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "2014",
+      "era": "signals",
+      "art": "leaf",
+      "title": "India’s chameleon: Least Concern",
+      "who": "IUCN Red List assessors (Srinivasulu and colleagues)",
+      "where": "Global",
+      "country": "International",
+      "text": "The IUCN Red List assessed the Indian chameleon as Least Concern, while regional studies noted it is rare in places such as Rajasthan and Sri Lanka.",
+      "why": "It recorded the species’ status for conservation planning.",
+      "box": "india",
+      "sources": [
+        16,
+        31
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "November 2014",
+      "era": "signals",
+      "art": "earth",
+      "title": "A third of chameleons threatened",
+      "who": "IUCN SSC chameleon assessment",
+      "where": "Global",
+      "country": "International",
+      "text": "An assessment of 184 of the roughly 200 known chameleon species found about 36% threatened with extinction. Around 85 species live only in Madagascar.",
+      "why": "It showed how many chameleons depend on shrinking forests.",
+      "box": "people",
+      "sources": [
+        24
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "10 March 2015",
+      "era": "crystals",
+      "art": "molecule",
+      "key": true,
+      "title": "The colour is in the crystals",
+      "who": "Jérémie Teyssier, Suzanne Saenko, Dirk van der Marel and Michel Milinkovitch",
+      "where": "Geneva",
+      "country": "Switzerland",
+      "text": "Electron microscopes showed guanine nanocrystals about 127 nm across in a triangular lattice inside panther chameleon iridophores. In excited males the crystals sit about 30% further apart, so the reflected colour shifts from blue toward yellow and red. Salty baths reversed it.",
+      "why": "It showed chameleon colour change is mainly structural, not pigment.",
+      "box": "crystal",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "10 March 2015",
+      "era": "crystals",
+      "art": "heatwaves",
+      "title": "A built-in sunshade",
+      "who": "Teyssier and colleagues",
+      "where": "Geneva",
+      "country": "Switzerland",
+      "text": "The same study found a deeper layer of iridophores with bigger, messier crystals that reflects much of the sun’s near-infrared light: about 45% of that energy in panther chameleons.",
+      "why": "It suggested the skin also guards against overheating.",
+      "box": "why",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "January 2016",
+      "era": "crystals",
+      "art": "bolt",
+      "title": "The fastest tongues are the smallest",
+      "who": "Christopher Anderson",
+      "where": "Providence, Rhode Island",
+      "country": "USA",
+      "text": "Filming 20 species, Anderson found small chameleons have the most explosive tongues, with peak accelerations up to 264 g, powered by elastic tissue loaded like a spring.",
+      "why": "It showed the tongue is a spring-loaded catapult.",
+      "box": "anatomy",
+      "sources": [
+        7,
+        8
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "2016",
+      "era": "crystals",
+      "art": "earth",
+      "title": "Every chameleon under CITES",
+      "who": "CITES Parties",
+      "where": "Johannesburg",
+      "country": "South Africa",
+      "text": "A proposal to CITES noted that all chameleons except the African pygmy chameleons were already listed in Appendix II (with one Madagascar species in Appendix I), and proposed adding the last ones.",
+      "why": "International trade in chameleons needs permits under the treaty.",
+      "box": "people",
+      "sources": [
+        23
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "2019",
+      "era": "crystals",
+      "art": "palette",
+      "title": "A smart skin copies the trick",
+      "who": "Khalid Salaita’s group",
+      "where": "Atlanta, Georgia",
+      "country": "USA",
+      "text": "Inspired by chameleon skin, chemists at Emory University made a stretchy material whose colour changes in heat and sunlight while keeping its size.",
+      "why": "Chameleon physics became a design idea for new materials.",
+      "box": "history",
+      "sources": [
+        27
+      ]
+    },
+    {
+      "year": 2020,
+      "date": "October 2020",
+      "era": "crystals",
+      "art": "leaf",
+      "title": "A film of plant crystals",
+      "who": "Researchers publishing in ACS Applied Materials & Interfaces",
+      "where": "China",
+      "country": "China",
+      "text": "A flexible film made from cellulose nanocrystals changed colour from blue to red when stretched, pressed or made damp.",
+      "why": "It showed renewable materials can do the trick too.",
+      "box": "history",
+      "sources": [
+        28
+      ]
+    },
+    {
+      "year": 2021,
+      "date": "February 2021",
+      "era": "crystals",
+      "art": "lens",
+      "title": "The nano-chameleon",
+      "who": "Frank Glaw and colleagues",
+      "where": "Munich and Madagascar",
+      "country": "Germany and Madagascar",
+      "text": "Brookesia nana was described from Madagascar. The male measures 13.5 mm from snout to vent, about 22 mm with its tail, one of the smallest reptiles known.",
+      "why": "It shows how varied Madagascar’s chameleons are.",
+      "box": "people",
+      "sources": [
+        9,
+        10
+      ]
+    },
+    {
+      "year": 2022,
+      "date": "2022",
+      "era": "crystals",
+      "art": "leaf",
+      "key": true,
+      "title": "Schedule I for India’s chameleon",
+      "who": "Parliament of India",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "The Wild Life (Protection) Amendment Act, 2022 redrew the schedules. The Indian chameleon is now listed in Schedule I, the highest level of protection.",
+      "why": "It strengthened protection against catching and trading the species.",
+      "box": "people",
+      "sources": [
+        20,
+        21
+      ]
+    },
+    {
+      "year": 2023,
+      "date": "2023",
+      "era": "crystals",
+      "art": "plane",
+      "title": "Chameleons in a suitcase",
+      "who": "Chennai Air Customs",
+      "where": "Chennai",
+      "country": "India",
+      "text": "Customs officers at Chennai airport found 22 snakes and a chameleon in a passenger’s checked bags from Kuala Lumpur. The animals were seized under the Wild Life (Protection) Act.",
+      "why": "It shows the illegal reptile trade passes through India’s airports.",
+      "box": "people",
+      "sources": [
+        26
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "First written account of colour change",
+      "value": "c. 350 BCE",
+      "who": "Aristotle, Greece"
+    },
+    {
+      "label": "India’s chameleon named",
+      "value": "1768",
+      "who": "J. N. Laurenti, Austria"
+    },
+    {
+      "label": "Nerves shown to control colour",
+      "value": "by 1876",
+      "who": "Paul Bert, France"
+    },
+    {
+      "label": "Colour change linked to social signals across species",
+      "value": "2008",
+      "who": "Stuart-Fox and Moussalli"
+    },
+    {
+      "label": "Tunable crystal lattice found in the skin",
+      "value": "2015",
+      "who": "Teyssier, Milinkovitch and colleagues, Switzerland"
+    },
+    {
+      "label": "Indian chameleon in Schedule I",
+      "value": "2022",
+      "who": "Parliament of India"
+    }
+  ],
+  "people": [
+    {
+      "name": "Aristotle",
+      "life": "384 – 322 BCE",
+      "role": "Philosopher and naturalist",
+      "from": "Greece",
+      "note": "Wrote the first careful account of chameleon colour change."
+    },
+    {
+      "name": "Ernst Wilhelm von Brücke",
+      "life": "1819 – 1892",
+      "role": "Physiologist",
+      "from": "Germany, worked in Vienna",
+      "note": "Studied live chameleons from Cairo and their colour cells in 1852."
+    },
+    {
+      "name": "Paul Bert",
+      "life": "1833 – 1886",
+      "role": "Physiologist",
+      "from": "France",
+      "note": "Showed that nerves from the brain steer chameleon colour."
+    },
+    {
+      "name": "Devi Stuart-Fox",
+      "role": "Evolutionary biologist",
+      "from": "Australia",
+      "note": "Showed that colour change in dwarf chameleons evolved for social signalling."
+    },
+    {
+      "name": "Michel Milinkovitch",
+      "role": "Evolutionary biologist and physicist",
+      "from": "Switzerland",
+      "note": "Led the 2015 team that found the tunable crystal lattice in chameleon skin."
+    },
+    {
+      "name": "Russell Ligon",
+      "role": "Behavioural ecologist",
+      "from": "USA",
+      "note": "Measured how veiled chameleons’ colours predict who wins a fight."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "The crystals that colour a chameleon are about 127 nanometres across, hundreds of times thinner than a hair.",
+    "In excited male panther chameleons, the gaps between the crystals grow by about 30%.",
+    "A deep layer of the skin reflects about 45% of the sun’s near-infrared energy in panther chameleons.",
+    "Chameleons do not change colour to match their background: the big changes are signals and temperature control.",
+    "India has just one chameleon species, Chamaeleo zeylanicus.",
+    "The male nano-chameleon Brookesia nana is 13.5 mm from snout to vent.",
+    "Small chameleons shoot their tongues with peak accelerations up to 264 g.",
+    "The red-headed garden lizard that many call a chameleon is not one: it is an agamid."
+  ],
+  "sources": [
+    {
+      "title": "Photonic crystals cause active colour change in chameleons (Teyssier, Saenko, van der Marel & Milinkovitch 2015)",
+      "publisher": "Nature Communications 6: 6368",
+      "url": "https://www.nature.com/articles/ncomms7368"
+    },
+    {
+      "title": "Photonic crystals cause active colour change in chameleons: open full text",
+      "publisher": "Europe PMC (PMC4366488)",
+      "url": "https://europepmc.org/article/PMC/PMC4366488"
+    },
+    {
+      "title": "Chameleons communicate with complex colour changes during contests (Ligon & McGraw 2013)",
+      "publisher": "Biology Letters 9: 20130892",
+      "url": "https://doi.org/10.1098/rsbl.2013.0892"
+    },
+    {
+      "title": "Selection for social signalling drives the evolution of chameleon colour change (Stuart-Fox & Moussalli 2008)",
+      "publisher": "PLoS Biology 6: e25",
+      "url": "https://doi.org/10.1371/journal.pbio.0060025"
+    },
+    {
+      "title": "Body colors indicate the reproductive status of female common chameleons (Cuadrado 2000)",
+      "publisher": "Ethology",
+      "url": "https://doi.org/10.1046/j.1439-0310.2000.00493.x"
+    },
+    {
+      "title": "Temperature-dependent color change in Kenyan chameleons (Walton & Bennett 1993)",
+      "publisher": "Physiological Zoology 66(2): 270–287",
+      "url": "https://www.journals.uchicago.edu/toc/physzool/1993/66/2"
+    },
+    {
+      "title": "Cephalopod chromatophores: neurobiology and natural history (Messenger 2001)",
+      "publisher": "Biological Reviews 76: 473–528",
+      "url": "https://doi.org/10.1017/S1464793101005772"
+    },
+    {
+      "title": "Off like a shot: scaling of ballistic tongue projection reveals extremely high performance in small chameleons (Anderson 2016)",
+      "publisher": "Scientific Reports 6: 18625",
+      "url": "https://www.nature.com/articles/srep18625"
+    },
+    {
+      "title": "Tiniest chameleons have the most powerful tongues",
+      "publisher": "Brown University news, 4 January 2016",
+      "url": "https://www.brown.edu/news/2016-01-04/chameleon"
+    },
+    {
+      "title": "Extreme miniaturization of a new amniote vertebrate and insights into the evolution of genital size in chameleons (Glaw et al. 2021)",
+      "publisher": "Scientific Reports 11: 2522",
+      "url": "https://www.nature.com/articles/s41598-020-80955-1"
+    },
+    {
+      "title": "Meet the nano-chameleon, a new contender for the title of world's smallest reptile",
+      "publisher": "Phys.org (SNSB press release), February 2021",
+      "url": "https://phys.org/news/2021-02-nano-chameleon-contender-title-world-smallest.html"
+    },
+    {
+      "title": "Aristotle, History of Animals (tr. D'Arcy Wentworth Thompson), book II",
+      "publisher": "Internet Archive",
+      "url": "https://archive.org/details/historyofanimals00arisuoft"
+    },
+    {
+      "title": "Pliny the Elder, Natural History, book VIII ch. 51: the chameleon (tr. Bostock & Riley)",
+      "publisher": "Perseus Digital Library",
+      "url": "https://www.perseus.tufts.edu/hopper/text?doc=Plin.+Nat.+8.51"
+    },
+    {
+      "title": "Thomas Browne, Pseudodoxia Epidemica, book III ch. 21: Of the Chameleon",
+      "publisher": "University of Chicago (Penelope)",
+      "url": "https://penelope.uchicago.edu/pseudodoxia/pseudo321.html"
+    },
+    {
+      "title": "Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften, math.-nat. Classe, vol. 8 (1852): Brücke on colour change in cephalopods and chameleons",
+      "publisher": "ZOBODAT",
+      "url": "https://www.zobodat.at/pdf/SBAWW_08_0196-0200.pdf"
+    },
+    {
+      "title": "Paul Bert: On the mechanism and causes of the changes of colour in the chameleon",
+      "publisher": "Annals and Magazine of Natural History 17 (1876): 97–99, via BioStor",
+      "url": "https://biostor.org/reference/92106"
+    },
+    {
+      "title": "Chamaeleo zeylanicus (Srinivasulu et al. 2014)",
+      "publisher": "IUCN Red List of Threatened Species",
+      "url": "https://www.iucnredlist.org/species/172657/1360663"
+    },
+    {
+      "title": "Chamaeleo zeylanicus",
+      "publisher": "The Reptile Database",
+      "url": "https://reptile-database.reptarium.cz/species?genus=Chamaeleo&species=zeylanicus"
+    },
+    {
+      "title": "Indian chameleon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Indian_chameleon"
+    },
+    {
+      "title": "Oriental garden lizard (Calotes versicolor)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oriental_garden_lizard"
+    },
+    {
+      "title": "Wild Life (Protection) Amendment Act, 2022 (No. 18 of 2022)",
+      "publisher": "LEAP, UN Environment Programme",
+      "url": "https://leap.unep.org/en/countries/in/national-legislation/wild-life-protection-amendment-act-2022-no-18-2022"
+    },
+    {
+      "title": "Wild Life (Protection) Amendment Act, 2022: Amendment of Schedules",
+      "publisher": "LegitQuest",
+      "url": "https://www.legitquest.com/act/wild-life-protection-amendment-act-2022/C855"
+    },
+    {
+      "title": "Wild Life (Protection) Act, 1972",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wild_Life_(Protection)_Act,_1972"
+    },
+    {
+      "title": "CoP17 Proposal 27: inclusion of African pygmy chameleons in Appendix II",
+      "publisher": "CITES, 2016",
+      "url": "https://cites.org/sites/default/files/eng/cop/17/prop/060216/E-CoP17-Prop-27.pdf"
+    },
+    {
+      "title": "Chameleon crisis: extinction threatens 36% of world's chameleons",
+      "publisher": "Mongabay, November 2014 (reporting the IUCN SSC assessment)",
+      "url": "https://news.mongabay.com/2014/11/chameleon-crisis-extinction-threatens-36-of-worlds-chameleons/"
+    },
+    {
+      "title": "Forest Dept and RPF bust gang involved in illegal chameleon smuggling in Titwala",
+      "publisher": "Free Press Journal",
+      "url": "https://www.freepressjournal.in/amp/mumbai/mumbai-news-forest-dept-rpf-bust-gang-involved-in-illegal-chameleon-smuggling-in-titwala-1-held"
+    },
+    {
+      "title": "Customs officials find 22 snakes and a chameleon in a woman's bags at Chennai airport",
+      "publisher": "CBS News, 2023",
+      "url": "https://www.cbsnews.com/news/india-chennai-airport-22-snakes-found-by-customs"
+    },
+    {
+      "title": "Color-changing 'smart skin' steals tricks from chameleons (Emory University, ACS Nano 2019)",
+      "publisher": "Futurity",
+      "url": "https://www.futurity.org/?p=2157072"
+    },
+    {
+      "title": "A flexible color-changing film inspired by chameleon skin (ACS Applied Materials & Interfaces 2020)",
+      "publisher": "Phys.org",
+      "url": "https://phys.org/news/2020-10-flexible-color-changing-chameleon-skin.html"
+    },
+    {
+      "title": "Simple analytic approximations to the CIE XYZ color matching functions (Wyman, Sloan & Shirley 2013)",
+      "publisher": "Journal of Computer Graphics Techniques 2(2)",
+      "url": "https://jcgt.org/published/0002/02/01/"
+    },
+    {
+      "title": "Chameleon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chameleon"
+    },
+    {
+      "title": "A review of the Indian chameleon Chamaeleo zeylanicus (Karunarathna et al. 2009)",
+      "publisher": "Taprobanica 1(2)",
+      "url": "https://www.taprobanica.org/Archives/Volume-1-8-2009-16/Volume-1-Number-2-November-2009/v1i218.html"
+    }
+  ]
+}

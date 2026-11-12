@@ -1,0 +1,125 @@
+{
+  "slug": "chameleonclear",
+  "box": 209,
+  "question": "How does a chameleon change color?",
+  "url": "https://glassbox.how/e/chameleonclear/",
+  "app": "https://glassbox.how/chameleonclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From Aristotle’s puff of air to nerves, pigment cells, and the nanocrystals found in 2015.\n\n350 BCE: Colour from a puff of air\n77: “Every colour except red and white”\n1852: Live chameleons from Cairo\n1876: Nerves steer the colour\n2008: Colour change evolved for talking\n2015: The colour is in the crystals\n\nThe full story, with 24 moments, sources and charts: glassbox.how/e/chameleonclear/history (link in bio)\n\nThen play with how it works: glassbox.how/chameleonclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #chameleon #colourchange #structuralcolour #photoniccrystal #iridophore #guanine #history",
+      "youtube": {
+        "title": "How we worked out chameleon colour in 45 seconds #shorts",
+        "description": "From Aristotle’s puff of air to nerves, pigment cells, and the nanocrystals found in 2015.\n\n350 BCE · Colour from a puff of air (Aristotle)\n77 · “Every colour except red and white” (Pliny the Elder)\n1852 · Live chameleons from Cairo (Ernst Wilhelm von Brücke)\n1876 · Nerves steer the colour (Paul Bert)\n2008 · Colour change evolved for talking (Devi Stuart-Fox and Adnan Moussalli)\n2015 · The colour is in the crystals (Jérémie Teyssier, Suzanne Saenko, Dirk van der Marel and Michel Milinkovitch)\n\n▶ Full history: https://glassbox.how/e/chameleonclear/history/\n▶ Play with it: https://glassbox.how/e/chameleonclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a chameleon change color?\n\nA chameleon’s green is not paint. It is light bouncing off a lattice of crystals far smaller than a hair, and when a male gets excited the crystals spread apart and he turns orange. Slide the crystals and watch.\n\n→ A chameleon grips with tong-like feet, a curling tail and eyes that swivel on their own.\n→ The colour comes from tiny crystals: spaced close, they reflect blue, and yellow pigment makes it green.\n→ Excited, the cells swell and the crystals spread out about 30%: the skin turns orange.\n→ Rival males flash bright colours. The brighter, faster-changing male tends to win; the loser goes dark.\n→ On a cool morning a chameleon goes dark to soak up more sunshine.\n\nPlay with it yourself. It's free and open source: glassbox.how/chameleonclear (link in bio)\n\nBox No. 209 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #chameleon #colourchange #structuralcolour #photoniccrystal #iridophore #guanine #melanin #indianchameleon #chamaeleozeylanicus",
+    "carousel": "Swipe through: How does a chameleon change color?\n\nA chameleon’s green is not paint. It is light bouncing off a lattice of crystals far smaller than a hair, and when a male gets excited the crystals spread apart and he turns orange. Slide the crystals and watch.\n\nSave this for later, then play with the interactive version at glassbox.how/chameleonclear (link in bio).\n\nBox No. 209 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #chameleon #colourchange #structuralcolour #photoniccrystal #iridophore #guanine",
+    "youtube": {
+      "title": "How does a chameleon change color? #shorts",
+      "description": "A chameleon’s green is not paint. It is light bouncing off a lattice of crystals far smaller than a hair, and when a male gets excited the crystals spread apart and he turns orange. Slide the crystals and watch.\n\n▶ Play with it: https://glassbox.how/e/chameleonclear/\n⌘ Source code (MIT): https://github.com/bdeeps/chameleonclear\n\nBox No. 209 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a chameleon change color? (interactive explainer)",
+      "description": "A chameleon’s green is not paint. It is light bouncing off a lattice of crystals far smaller than a hair, and when a male gets excited the crystals spread apart and he turns orange. Slide the crystals and watch.\n\n▶ Play with the interactive version: https://glassbox.how/e/chameleonclear/\n⌘ Source code (MIT): https://github.com/bdeeps/chameleonclear\n\nIn this video:\n• A skin built in layers. Under a chameleon’s clear outer skin sit yellow pigment cells, then two layers of crystal-filled iridophores, then dark melanophores with arms reaching up.\n• Colour from crystals. Guanine crystals about 127 nm across sit in a neat lattice.\n• Talking, not hiding. Chameleons do not copy their background.\n• India’s chameleon. India has one chameleon, Chamaeleo zeylanicus, in scrub and dry forest across the peninsula.\n• Chameleons and people. The Indian chameleon is in Schedule I of the Wild Life (Protection) Act after the 2022 amendment, so catching or trading one is a crime.\n• How we found out. Aristotle thought chameleons changed colour by puffing up with air.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a chameleon change color?\n\nA chameleon’s green is not paint.\n\nPlay with it: https://glassbox.how/e/chameleonclear/",
+    "linkedin": "How does a chameleon change color?\n\nA chameleon’s green is not paint. It is light bouncing off a lattice of crystals far smaller than a hair, and when a male gets excited the crystals spread apart and he turns orange. Slide the crystals and watch.\n\n1. A skin built in layers\n2. Colour from crystals\n3. Talking, not hiding\n4. India’s chameleon\n5. Chameleons and people\n6. How we found out\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 209 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/chameleonclear/\nCode: https://github.com/bdeeps/chameleonclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-11-12T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-11-12T09:18:41.005Z"
+}
